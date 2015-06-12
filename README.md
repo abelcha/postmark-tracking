@@ -11,7 +11,6 @@ npm install postmark-tracking --save
 
 # Documentation#
 
-
 ####Track message with a unique id
 
 ```javascript
@@ -26,7 +25,7 @@ tracker.search('my-message-id-xxx', function(err, resp) {
 
 ### Track message with a unique id and options
 
-** Options:**
+**Options:**
 
 * count : *Limit the number of message opens to return per request, max of 500. (default: 10)*
 * offset : *Specify the number of messages to skip.(default: 0)*
@@ -44,7 +43,7 @@ tracker.search({
 
 ### Track messages with filters
 
- ** Options: **
+**Options:**
 * recipient: *Filter by the value of the To, Cc, or Bcc fields.*
 * tag: *Filter by tag.*
 * client_name: *Filter by the client name, i.e. Outlook, Gmail.*
