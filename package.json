@@ -19,7 +19,7 @@
     "opens"
   ],
   "author": "Abel Chalier",
-  "license": MIT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tovazm/postmark-tracking/issues"
   },
