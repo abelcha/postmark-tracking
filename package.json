@@ -1,0 +1,32 @@
+{
+  "name": "postmark-tracking",
+  "version": "1.0.0",
+  "description": "Wrapper for the Postmark Track Open api",
+  "main": "postmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tovazm/postmark-tracking.git"
+  },
+  "keywords": [
+    "postmark",
+    "tracking",
+    "mail",
+    "mails",
+    "open",
+    "opens"
+  ],
+  "author": "Abel Chalier",
+  "license": MIT",
+  "bugs": {
+    "url": "https://github.com/tovazm/postmark-tracking/issues"
+  },
+  "homepage": "https://github.com/tovazm/postmark-tracking",
+  "dependencies": {
+    "nodeify": "^1.0.0",
+    "q": "^1.4.1",
+    "request": "^2.57.0"
+  }
+}
