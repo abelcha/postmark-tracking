@@ -9,9 +9,9 @@ Find more details on the [official documentation]
 npm install postmark-tracking --save
 ```
 
-# Documentation
-
-####Track message with a unique id
+ Documentation
+--------
+#### Track message with a unique id
 
 ```javascript
 var Postmark = require('postmark-tracking');
