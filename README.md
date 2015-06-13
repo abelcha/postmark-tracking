@@ -9,7 +9,7 @@ Find more details on the [official documentation]
 npm install postmark-tracking --save
 ```
 
-# Documentation#
+# Documentation
 
 ####Track message with a unique id
 
@@ -22,7 +22,7 @@ tracker.search('my-message-id-xxx', function(err, resp) {
 });
 
 ```
-
+====
 ### Track message with a unique id and options
 
 **Options:**
@@ -40,7 +40,7 @@ tracker.search({
 });
 
 ```
-
+====
 ### Track messages with filters
 
 **Options:**
@@ -68,7 +68,7 @@ tracker.search({
 });
 
 ```
-
+====
 ####Using promises
 
 ```javascript
