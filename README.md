@@ -1,6 +1,6 @@
 # Postmark-Tracking
 
-Postmark Tracking is a wrapper for the postmark tracking API.
+Postmark Tracking is a nodejs wrapper for the postmark tracking API.
 Find more details on the [official documentation]
 
  Installation
